@@ -1,0 +1,26 @@
+This is the explanation of the GUI of the ELOG to be created.
+
+PART 1
+-> We need to create home page UI which allows you to input details about different shifts and gives 
+   features to operate through it. We just need streamlit to produce the home page. 
+-> The features we need to create for the home page:
+     1. Shift detail - Time and Date (date and time input)
+     2. Operator name - Name of the operator who takes care of the various operations (text input)
+     3. Operation type - Type of Operation to be performed
+     4. Observational Entry - A mutable table that can be used to store the outputs of the experiments 
+                              performed.
+     5. Instruction for the next shift - This feature adds gives instruction for the next shift about any
+                                         abnormalities in the processes.
+Note: The instruction of the previous shift has to be shown on the top.
+
+-> The next operator can visit the previous shift's details or can create a new sheet to push a new entry.
+
+PART 2
+-> This page will be in another tab. This page will allow you to enter other finalized outputs. It will be 
+   in a form of a table. 
+-> It will also have a table for changes and modifications.
+-> It will have a text area to add comments for each input.
+-> We will have a submit, lock and reset button.
+9967221901
+
+
